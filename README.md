@@ -1,4 +1,4 @@
-# drake-eqaution
+# My Drake Equation Calculator
 A simple SPA the Drake Equation
 I wanted to build a simple UI to play with the terms of the equation, so I did!
 
